@@ -3,7 +3,6 @@
   "strings" : {
     "eqx-K1-GNU.text" : {
       "comment" : "Class = \"UILabel\"; text = \"160\"; ObjectID = \"eqx-K1-GNU\";",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -21,7 +20,6 @@
     },
     "GSJ-0K-rjv.text" : {
       "comment" : "Class = \"UILabel\"; text = \"Weight\"; ObjectID = \"GSJ-0K-rjv\";",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -37,9 +35,25 @@
         }
       }
     },
+    "low_weight" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Low weight"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bajo Peso"
+          }
+        }
+      }
+    },
     "nbt-Qy-WhN.text" : {
       "comment" : "Class = \"UILabel\"; text = \"Height\"; ObjectID = \"nbt-Qy-WhN\";",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -57,7 +71,6 @@
     },
     "nM0-9Z-CHr.text" : {
       "comment" : "Class = \"UILabel\"; text = \"70\"; ObjectID = \"nM0-9Z-CHr\";",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -75,7 +88,6 @@
     },
     "uPi-tH-1SR.text" : {
       "comment" : "Class = \"UILabel\"; text = \"00.00\"; ObjectID = \"uPi-tH-1SR\";",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -91,9 +103,26 @@
         }
       }
     },
+    "YNW-HB-ixd.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Description\"; ObjectID = \"YNW-HB-ixd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Description"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descripción"
+          }
+        }
+      }
+    },
     "YRY-SV-sjW.configuration.title" : {
       "comment" : "Class = \"UIButton\"; configuration.title = \"Calculate BMI\"; ObjectID = \"YRY-SV-sjW\";",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -105,6 +134,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Calcular IMC"
+          }
+        }
+      }
+    },
+    "YRY-SV-sjW.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"YRY-SV-sjW\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
           }
         }
       }
