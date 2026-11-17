@@ -1,0 +1,114 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "eqx-K1-GNU.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"160\"; ObjectID = \"eqx-K1-GNU\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "160"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "160"
+          }
+        }
+      }
+    },
+    "GSJ-0K-rjv.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Weight\"; ObjectID = \"GSJ-0K-rjv\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weight"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peso"
+          }
+        }
+      }
+    },
+    "nbt-Qy-WhN.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Height\"; ObjectID = \"nbt-Qy-WhN\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Height"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Altura"
+          }
+        }
+      }
+    },
+    "nM0-9Z-CHr.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"70\"; ObjectID = \"nM0-9Z-CHr\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "70"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "70"
+          }
+        }
+      }
+    },
+    "uPi-tH-1SR.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"00.00\"; ObjectID = \"uPi-tH-1SR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "00.00"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "00.00"
+          }
+        }
+      }
+    },
+    "YRY-SV-sjW.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"Calculate BMI\"; ObjectID = \"YRY-SV-sjW\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calculate BMI"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calcular IMC"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.3"
+}
