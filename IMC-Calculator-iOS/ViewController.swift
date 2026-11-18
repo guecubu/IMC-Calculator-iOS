@@ -41,25 +41,23 @@ class ViewController: UIViewController {
         
         switch result {
         case 0..<18.5:
-            resultDescriptionLabel.text = String(localized: "low_weight",
-                comment: ""
-            )
+            resultDescriptionLabel.text = String(localized: "low_weight",table: "Main")
             resultLabel.textColor = UIColor.bmiUnder
             resultDescriptionLabel.textColor = UIColor.bmiUnder
         case 18.5..<25.0:
-            resultDescriptionLabel.text = "Normal weight"
+            resultDescriptionLabel.text = String(localized: "normal_weight",table: "Main")
             resultLabel.textColor = UIColor.bmiNormal
             resultDescriptionLabel.textColor = UIColor.bmiNormal
         case 25.0..<30.0:
-            resultDescriptionLabel.text = "Over weight"
+            resultDescriptionLabel.text = String(localized: "over_weight",table: "Main")
             resultLabel.textColor = UIColor.bmiOver
             resultDescriptionLabel.textColor = UIColor.bmiOver
         case 30.0..<35.0:
-            resultDescriptionLabel.text = "Obesity"
+            resultDescriptionLabel.text = String(localized: "obesity_weight",table: "Main")
             resultLabel.textColor = UIColor.bmiObesity
             resultDescriptionLabel.textColor = UIColor.bmiObesity
         default:
-            resultDescriptionLabel.text = "Extreme Obesity"
+            resultDescriptionLabel.text = String(localized: "extreme_obesity",table: "Main")
             resultLabel.textColor = UIColor.bmiExtremeObesity
             resultDescriptionLabel.textColor = UIColor.bmiExtremeObesity
         }

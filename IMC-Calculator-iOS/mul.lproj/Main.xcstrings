@@ -18,6 +18,22 @@
         }
       }
     },
+    "extreme_obesity" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Extreme Obesity"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obesidad Extrema"
+          }
+        }
+      }
+    },
     "GSJ-0K-rjv.text" : {
       "comment" : "Class = \"UILabel\"; text = \"Weight\"; ObjectID = \"GSJ-0K-rjv\";",
       "localizations" : {
@@ -36,6 +52,22 @@
       }
     },
     "low_weight" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Low weight"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bajo Peso"
+          }
+        }
+      }
+    },
+    "low_weight.text" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -82,6 +114,54 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "70"
+          }
+        }
+      }
+    },
+    "normal_weight" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Normal weight"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peso Normal"
+          }
+        }
+      }
+    },
+    "obesity_weight" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obesity"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obesidad"
+          }
+        }
+      }
+    },
+    "over_weight" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Over weight"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sobrepeso"
           }
         }
       }
@@ -146,6 +226,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Button"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ssds"
           }
         }
       }
